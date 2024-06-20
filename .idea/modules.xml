@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javakb5/01_MyFirstProject/01_MyFirstProject.iml" filepath="$PROJECT_DIR$/javakb5/01_MyFirstProject/01_MyFirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javakb5/02_Variable/02_Variable.iml" filepath="$PROJECT_DIR$/javakb5/02_Variable/02_Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javakb5/03_Operator/03_Operator.iml" filepath="$PROJECT_DIR$/javakb5/03_Operator/03_Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javakb5/04_ControlStatement/04_ControlStatement.iml" filepath="$PROJECT_DIR$/javakb5/04_ControlStatement/04_ControlStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javakb5/05_Array/05_Array.iml" filepath="$PROJECT_DIR$/javakb5/05_Array/05_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javakb5/06_Object/06_Object.iml" filepath="$PROJECT_DIR$/javakb5/06_Object/06_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javakb5/21_CodingTest/21_CodingTest.iml" filepath="$PROJECT_DIR$/javakb5/21_CodingTest/21_CodingTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javakb5.iml" filepath="$PROJECT_DIR$/.idea/javakb5.iml" />
+    </modules>
+  </component>
+</project>
